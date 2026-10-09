@@ -47,10 +47,10 @@ PolyEdge provides official, production-ready SDKs across four major programming 
 
 | Language | Repository | Package | Installation |
 | :--- | :--- | :--- | :--- |
-| **Node.js / TS** | [`PolyEdgeDev/polyedge-ts`](https://github.com/PolyEdgeDev/polyedge-ts) | [![npm](https://img.shields.io/npm/v/polyedge.svg?color=blue)](https://www.npmjs.com/package/polyedge) | `npm install polyedge` |
-| **Python** | [`PolyEdgeDev/polyedge-python`](https://github.com/PolyEdgeDev/polyedge-python) | [![PyPI](https://img.shields.io/pypi/v/polyedge.svg?color=blue)](https://pypi.org/project/polyedge/) | `pip install polyedge` |
+| **Node.js / TS** | [`PolyEdgeDev/polyedge-ts`](https://github.com/PolyEdgeDev/polyedge-ts) | [![npm](https://img.shields.io/npm/v/polyedge.svg?color=blue&cache=1)](https://www.npmjs.com/package/polyedge) | `npm install polyedge` |
+| **Python** | [`PolyEdgeDev/polyedge-python`](https://github.com/PolyEdgeDev/polyedge-python) | [![PyPI](https://img.shields.io/pypi/v/polyedge.svg?color=blue&cache=1)](https://pypi.org/project/polyedge/) | `pip install polyedge` |
 | **Go** | [`PolyEdgeDev/polyedge-go`](https://github.com/PolyEdgeDev/polyedge-go) | [![Go Reference](https://pkg.go.dev/badge/github.com/PolyEdgeDev/polyedge-go.svg)](https://pkg.go.dev/github.com/PolyEdgeDev/polyedge-go) | `go get github.com/PolyEdgeDev/polyedge-go` |
-| **Rust** | [`PolyEdgeDev/polyedge-rust`](https://github.com/PolyEdgeDev/polyedge-rust) | [![Crates.io](https://img.shields.io/crates/v/polyedge.svg?color=blue)](https://crates.io/crates/polyedge) | `cargo add polyedge` |
+| **Rust** | [`PolyEdgeDev/polyedge-rust`](https://github.com/PolyEdgeDev/polyedge-rust) | [![Crates.io](https://img.shields.io/crates/v/polyedge.svg?color=blue&cache=1)](https://crates.io/crates/polyedge) | `cargo add polyedge` |
 
 ---
 
